@@ -14,6 +14,17 @@ I find all aspects of IT and technology interesting, spending a lot of time read
 - Web Frameworks:
 - Databases: PostgreSQL
 - Tools & Methods: Git...
+- Operating Systems: Windows, Linux
+
+## GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SnowyJaguar1034&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SnowyJaguar1034&repo=Zupie&show_icons=true&theme=nightowl&show_owner=true"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowyJaguar1034&theme=nightowl" />
+</a>
 
 ## Experience
 
