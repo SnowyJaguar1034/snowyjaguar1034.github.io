@@ -6,7 +6,7 @@ description: Just some random description
 
 show_downloads: true
 
-theme: jekyll-theme-leap-day #jekyll-theme-minimal
+theme: jekyll-theme-midnight #jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
