@@ -1,1 +1,14 @@
+title: Teagan Collyer Portfolio
 
+logo: 1.png
+
+description: Just some random description
+
+show_downloads: true
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+
+email: portfolio@snowyjaguar.xyz
