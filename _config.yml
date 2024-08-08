@@ -10,5 +10,21 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - minima
 
 email: portfolio@snowyjaguar.xyz
+
+testimonials:
+  - name: "John Doe"
+    quote: "This is a great portfolio!"
+  - name: "Jane Doe"
+    quote: "I love this portfolio!"
+
+links:
+  - title: Discord"
+    url: "https://discord.com"
+  - title: "GitHub"
+    url: "https://github.com"
+  - title: "LinkedIn"
+    url: "https://linkedin.com"
