@@ -6,12 +6,22 @@ description: Just some random description
 
 show_downloads: true
 
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - minima
+
+header_pages:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
 
 email: portfolio@snowyjaguar.xyz
 
