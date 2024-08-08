@@ -6,7 +6,7 @@ description: Just some random description
 
 show_downloads: true
 
-theme: jekyll-theme-minima #jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 plugins:
   - jekyll-seo-tag
