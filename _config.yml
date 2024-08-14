@@ -15,9 +15,9 @@ plugins:
 
 header_pages:
   - title: "Home"
-    url: "/"
+    url: "/README.md"
   - title: "About"
-    url: "/about"
+    url: "/about.md"
   - title: "Projects"
     url: "/projects"
   - title: "Contact"
