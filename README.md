@@ -18,8 +18,8 @@ I find all aspects of IT and technology interesting, spending a lot of time read
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowyJaguar1034&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl"/></a>
 <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowyJaguar1034&theme=nightowl" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowyJaguar1034&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl"/></a>
 
 ## Experience
 
